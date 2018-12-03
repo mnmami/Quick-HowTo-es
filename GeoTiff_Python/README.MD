@@ -16,5 +16,5 @@
 and continue from there.
 
 # Resources
-- [](https://conda.io/docs/user-guide/install/linux.html#)
-- [](https://stackoverflow.com/questions/41996079/how-do-i-open-geotiff-images-with-gdal-in-python)
+- [Conda installation](https://conda.io/docs/user-guide/install/linux.html#)
+- [Open Geotiff in Python](https://stackoverflow.com/questions/41996079/how-do-i-open-geotiff-images-with-gdal-in-python)
