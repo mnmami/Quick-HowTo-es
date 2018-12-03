@@ -14,3 +14,7 @@
   img_array = rb.ReadAsArray()
 ```
 and continue from there.
+
+# Resources
+- [](https://conda.io/docs/user-guide/install/linux.html#)
+- [](https://stackoverflow.com/questions/41996079/how-do-i-open-geotiff-images-with-gdal-in-python)
