@@ -6,7 +6,9 @@
       ```bash
       bash Miniconda3-latest-Linux-x86_64.sh
       ```
-  - Then in python console, run: 
+
+  - Install the package in python console: `conda install gdal`
+  - Then to use the package in the following way:
   ```python
   from osgeo import gdal
   ds = gdal.Open('input.tif', gdal.GA_ReadOnly)
