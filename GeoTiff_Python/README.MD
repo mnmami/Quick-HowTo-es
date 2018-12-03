@@ -15,6 +15,9 @@
 ```
 and continue from there.
 
+## Using R
+- Refer to this [resource](https://www.earthdatascience.org/courses/earth-analytics/lidar-raster-data-r/introduction-to-spatial-metadata-r/)
+
 ## Resources
 - [Conda installation](https://conda.io/docs/user-guide/install/linux.html#)
 - [Open Geotiff in Python](https://stackoverflow.com/questions/41996079/how-do-i-open-geotiff-images-with-gdal-in-python)
