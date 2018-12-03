@@ -15,6 +15,6 @@
 ```
 and continue from there.
 
-# Resources
+## Resources
 - [Conda installation](https://conda.io/docs/user-guide/install/linux.html#)
 - [Open Geotiff in Python](https://stackoverflow.com/questions/41996079/how-do-i-open-geotiff-images-with-gdal-in-python)
