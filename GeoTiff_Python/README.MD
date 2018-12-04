@@ -13,9 +13,15 @@
   from osgeo import gdal
   ds = gdal.Open('input.tif', gdal.GA_ReadOnly)
   rb = ds.GetRasterBand(1)
-  img_array = rb.ReadAsArray()
-```
-and continue from there.
+  img_array = rb.ReadAsArray() # get the ruster as python array
+  img_array # show (part of) the data
+  ```
+  - To plot the data, install **rasterio** package using conda as above, and then use it as follows:
+  ```python
+  import rasterio
+  pyplot.imshow(array, cmap='pink')
+  pyplot.show()
+  ```
 
 ## Using R
 - Refer to this [resource](https://www.earthdatascience.org/courses/earth-analytics/lidar-raster-data-r/introduction-to-spatial-metadata-r/)
