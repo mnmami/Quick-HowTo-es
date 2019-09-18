@@ -19,7 +19,8 @@
   - To plot the data, install **rasterio** package using conda as above, and then use it as follows:
   ```python
   import rasterio
-  pyplot.imshow(array, cmap='pink')
+  from matplotlib import pyplot
+  pyplot.imshow(img_array, cmap='pink')
   pyplot.show()
   ```
 
